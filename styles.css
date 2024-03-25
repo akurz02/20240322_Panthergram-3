@@ -39,3 +39,10 @@ body {
  background-color: #081E3F;
  margin-bottom: 1%;
 }
+
+.img1 img {
+    width: 168px;
+    height: 168px;
+    overflow: hidden;
+
+}
